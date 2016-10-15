@@ -84,6 +84,11 @@ Weather=Rain,50
 MapPosition=0,14,8
 Outdoor=true
 ShowArea=true
+[022]
+# Route 50
+Bicycle=true
+Outdoor=true
+ShowArea=true
 [023]
 # Lerucean Town
 MapPosition=0,15,8

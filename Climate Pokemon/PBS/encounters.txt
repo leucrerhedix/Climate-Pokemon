@@ -1,4 +1,4 @@
-######################
+#########################
 002 # Lappet Town
 25,10,10
 Water
@@ -20,11 +20,11 @@ QWILFISH,16,19
 CORSOLA,15,18
 STARYU,15,17
 STARYU,15,17
-######################
+#########################
 005 # Route 1
 25,10,10
 Land
-RATTATA,11,14
+RATTATA,2,4
 PIDGEY,11,14
 RATTATA,11,14
 PIDGEY,11,14
@@ -36,8 +36,14 @@ RATTATA,11,13
 PIDGEY,11,13
 RATTATA,14
 PIDGEY,14
+RockSmash
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
 LandNight
-RATTATA,10,14
+RATTATA,3
 HOOTHOOT,10,13
 RATTATA,10,14
 HOOTHOOT,10,13
@@ -49,7 +55,7 @@ RATTATA,10,14
 HOOTHOOT,10,14
 RATTATA,15
 HOOTHOOT,14
-######################
+#########################
 021 # Route 2
 25,10,10
 Land
@@ -102,7 +108,7 @@ WURMPLE,6,8
 SPINARAK,9,12
 SPINARAK,9,12
 SPINARAK,9,12
-######################
+#########################
 028 # Natural Park
 25,10,10
 Land
@@ -157,7 +163,7 @@ SCYTHER,13,14
 PINSIR,13,14
 SCYTHER,13,14
 PINSIR,13,14
-######################
+#########################
 031 # Route 3
 25,10,10
 Land
@@ -216,7 +222,7 @@ SHROOMISH,14,17
 BURMY,12,15
 BURMY,12,15
 BURMY,12,15
-######################
+#########################
 034 # Ice Cave
 25,10,10
 Cave
@@ -232,7 +238,7 @@ SMOOCHUM,11,14
 SMOOCHUM,11,14
 SMOOCHUM,11,14
 SMOOCHUM,11,14
-######################
+#########################
 039 # Route 4
 25,10,10
 Land
@@ -248,7 +254,7 @@ MURKROW,12,14
 MURKROW,12,14
 MURKROW,12,14
 MURKROW,12,14
-######################
+#########################
 041 # Route 5
 25,10,10
 Land
@@ -264,7 +270,7 @@ SLUGMA,13,14
 SLUGMA,13,14
 SLUGMA,13,14
 SLUGMA,13,14
-######################
+#########################
 044 # Route 6
 25,10,10
 Land
@@ -280,7 +286,7 @@ MURKROW,12,14
 MURKROW,12,14
 MURKROW,12,14
 MURKROW,12,14
-######################
+#########################
 047 # Route 7
 25,10,10
 Land
@@ -302,7 +308,7 @@ NOSEPASS,13,14
 GEODUDE,12,15
 GEODUDE,12,15
 GEODUDE,12,15
-######################
+#########################
 049 # Rock Cave
 25,10,10
 Cave
@@ -318,7 +324,7 @@ MAWILE,14,16
 MAWILE,14,16
 MAWILE,14,16
 MAWILE,14,16
-######################
+#########################
 050 # Rock Cave
 25,10,10
 Cave
@@ -334,7 +340,7 @@ BURMY,14,16
 BURMY,14,16
 BURMY,14,16
 BURMY,14,16
-######################
+#########################
 051 # Dungeon
 25,10,10
 Cave
@@ -350,7 +356,7 @@ TYROGUE,1
 TYROGUE,1
 TYROGUE,1
 TYROGUE,1
-######################
+#########################
 066 # Safari Zone
 25,10,10
 Land
@@ -366,7 +372,7 @@ HOPPIP,13,17
 HOPPIP,13,17
 HOPPIP,13,17
 HOPPIP,13,17
-######################
+#########################
 068 # Safari Zone
 25,10,10
 Land
@@ -401,7 +407,7 @@ REMORAID,17,19
 CARVANHA,16,17
 FINNEON,15,18
 DRATINI,17
-######################
+#########################
 069 # Route 8
 25,10,10
 Land
@@ -436,7 +442,7 @@ QWILFISH,16,19
 CORSOLA,15,18
 STARYU,15,17
 STARYU,15,17
-######################
+#########################
 070 # Underwater
 25,10,10
 Land
@@ -452,7 +458,7 @@ RELICANTH,16,19
 RELICANTH,16,19
 RELICANTH,16,19
 RELICANTH,16,19
-######################
+#########################
 075 # Tiall Region
 25,10,10
 Land

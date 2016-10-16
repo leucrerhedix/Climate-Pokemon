@@ -6,6 +6,12 @@ Liam
 DIGLETT,10
 BONSLY,11
 #-------------------
+CAMPER
+TinyDick
+2
+DIGLETT,10
+BONSLY,11
+#-------------------
 LEADER_Brock
 Brock
 2,FULLRESTORE,FULLRESTORE

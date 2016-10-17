@@ -122,7 +122,7 @@ SPINARAK,9,12
 SPINARAK,9,12
 SPINARAK,9,12
 #########################
-022 # Route 50
+022 # MAP022
 25,10,10
 Land
 BULBASAUR,5

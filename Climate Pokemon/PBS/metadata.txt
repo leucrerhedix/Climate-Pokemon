@@ -85,7 +85,7 @@ MapPosition=0,14,8
 Outdoor=true
 ShowArea=true
 [022]
-# Route 50
+# MAP022
 Bicycle=true
 Outdoor=true
 ShowArea=true
@@ -126,6 +126,8 @@ MapSize=2,1101
 MapPosition=0,14,6
 Outdoor=true
 ShowArea=true
+[033]
+# Beepboop
 [034]
 # Ice Cave
 BattleBack=IndoorC
